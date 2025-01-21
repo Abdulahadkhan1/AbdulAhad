@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdulahadkhan1" alt="abdulahadkhan1" /></a> </p>
 
-- 🔭 I’m currently working in **MCS(NUST)**
+- 🔭 I’m currently working at **MCS(NUST)**
 
 - 🌱 I’m currently learning **React.js/Next.js**
 
